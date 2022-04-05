@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "AWS SDK for Java 1.v -> 2.x 마이그레이션 (1)"
+date: 2022-04-05 22:25:28 +0900
+categories: Study 
 ---
 
 # AWS SDK for Java 1.v -> 2.x 마이그레이션 
